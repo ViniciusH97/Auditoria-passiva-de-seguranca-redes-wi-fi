@@ -60,21 +60,7 @@ termux-location
 ```
 O retorno do comando deve ser algo como:
 
-```bash
-~ $ termux-location
-{
-  "latitude": xx.xxxxxxxxx,
-  "longitude": xx,xxxxxxxxx,
-  "altitude": xxx,xxxxxxxxx,
-  "accuracy": 13.63453197479248,
-  "vertical_accuracy": 14.190823554992676,
-  "bearing": 0.0,
-  "speed": 0.0,
-  "elapsedMs": 40,
-  "provider": "gps"
-}
-~ $
-```
+![Termux2](https://github.com/user-attachments/assets/5802fa5b-f9c1-44ca-80a7-396466efba09)
 
 > Script que foi utilizado no wardriving e warwalking: [scanf.sh](https://github.com/ViniciusH97/Auditoria-passiva-de-seguranca-redes-wi-fi/blob/main/scanwf.sh)
 
