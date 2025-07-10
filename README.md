@@ -38,7 +38,7 @@ Realizar uma auditoria passiva em redes wi-fi de quatro cidades da região, iden
 
 #### Para utilizar a ferramentas na versão mais atualizada, no primeiro momento deve-se atualizar para a ultima versão com o seguinte comando:
 ```bash
-pkg apt updte # atualizar a lista de pacotes
+pkg apt update # atualizar a lista de pacotes
 ```
 e
 
